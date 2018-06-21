@@ -1,0 +1,367 @@
+@media screen and (min-width:992px) and (max-width:1024px){
+    .follow-us{
+        margin-left:-60px;
+    }
+    .up-img{
+        display: none;
+    }
+    .post-blog .post-description{
+        padding-top:125px;
+    }
+    .post-blog:hover .post-description{
+       padding-top:100px;
+    }
+    .left-list>li>a{
+        margin-right:0;
+        font-size:9px;
+    }
+    .follow-us{
+        font-size:9px;
+        margin-left:-20px;
+    }
+    .right-sponsored-post{
+        display: none;
+    }
+    .testimonial-wrapper{
+        width:80%;
+    }
+    .join-card-content, .testimonial-card-content{
+        padding-top:26px !important;
+    }
+    .send-email{
+        margin-top:-24px;
+    }
+}
+
+@media screen and (min-width:768px) and (max-width:992px){
+    .article_cover_img{
+        height: 32vh;
+    }
+    .post-date{
+        font-size:10px;
+    }
+    .post-blog .post-description{
+        padding-top:105px;
+    }
+    .left-list>li>a{
+        margin-right:0;
+        font-size:8px;
+    }
+    .join-card-content{
+        padding-top:16px !important;
+    }
+    .send-email{
+        margin-top:-28px;
+    }
+}
+
+@media screen and (min-width:768px) and (max-width:1024px){
+    .article_cover_img{
+        height: 30vh;
+    }
+    .join-card-content, .testimonial-card-content{
+        font-size:12px;
+    }
+    .post-content>a{
+        font-size:16px;
+    }
+    .join-date>span{
+        font-size:10px;
+    }
+    .left-article-social{
+        margin-left: 6.74% !important;
+    }
+    .recently-left{
+        margin-bottom:-44px;
+    }
+    .testimonial-wrapper{
+        border:none;
+    }
+}
+
+@media screen and (max-width:479px){
+    .article_cover_img{
+        height: 30vh;
+    }
+    nav .nav-wrapper{
+        margin-top:0;
+    }
+    .left-article-social>p{
+        margin-top:0;
+        text-align: justify;
+    }
+    .footer-left{
+        text-align: center;
+    }
+    .footer-center{
+        margin-bottom:14px;
+        margin-top:14px;
+        text-align: center;
+    }
+    .footer{
+        margin-top:0;
+    }
+    .footer-right{
+        text-align: center;
+        margin-top:10px;
+    }
+    .image-post>img{
+        width:371px;
+    }
+   .image-recently>img{
+       width: 371px !important;
+   }
+    .recently-added-blog .recently-added-description{
+        width:98.8%;
+    }
+    .recently-added-blog{
+        margin-right:0;
+        background-color: #fff;
+    }
+    .join-card{
+        margin-bottom:10px !important;
+    }
+    .reg-icons{
+        display: flex;
+        flex-direction: column;
+        -webkit-flex-direction: column;
+    }
+    .reg-icons>div{
+        width:100% !important;
+        margin-right:0;
+    }
+    .join-wrapper{
+        margin-top:0;
+    }
+    .reg-text{
+        font-size:12pt;
+    }
+    .overlay-hugeinc>.container>a>img{
+        margin-top:38px;
+    }
+    .testimonials-title{
+        text-align: center;
+        width:100%;
+        border-bottom:1px solid #f1002d;
+    }
+    /*the start style of index file for mobile*/
+    .social-networks{
+        flex-direction: column;
+        height: auto;
+    }
+    .social-list{
+        margin-top: 12px!important;
+    }
+    .social-list>li{
+        margin-left:-8px;
+        margin-right:24px;
+    }
+    .article-cover{
+        bottom:-311px;
+        padding-top:140px;
+    }
+    .share{
+        margin-top:117px;
+    }
+    .left-article-social{
+        margin-left:0 !important;
+    }
+    /*the start style of testimonial slider*/
+    .testimonial-wrapper{
+        border:none;
+    }
+    .testimonial{
+        width:90%;
+    }
+    .slider .testimonial-slides li img{
+        width:171px;
+        height: 171px;
+    }
+    .testimonial-slides{
+        margin-top:-48px !important;
+        height: 350px !important;
+    }
+    .testimonial-card{
+        padding-top:60px;
+    }
+    .slider .indicators .indicator-item.active{
+        background-color: #f1002d;
+    }
+    .testimonial>.slider{
+        height: 416px !important;
+    }
+    /*the end style of testimonial slider*/
+    .post-blog{
+        margin:0 0 -10px 0;
+        padding-bottom:0 !important;
+    }
+    .post-wrapper{
+        margin-top:51px;
+    }
+    .services-slides{
+        background-color: #f8f8f8!important;
+    }
+    .slider .services-slides li img{
+        width:40px;
+        height:40px;
+    }
+    .services-slider{
+       height: 200px !important;
+    }
+    .services-slides{
+        height: 224px !important;
+    }
+    .services-slider .indicators .indicator-item.active{
+        background-color: #1bb6fe;
+    }
+    .reg-text,.reg-title{
+        font-size:16pt;
+    }
+    .load-more{
+        margin-top:0;
+    }
+    .slider .indicators .indicator-item{
+        width:8px;
+        height: 8px;
+        margin:0 4px;
+    }
+    .post-blog .post-description{
+        background: rgba(0, 0, 0, 0) linear-gradient(transparent, rgba(0, 0, 0, 0.89)) repeat scroll 0 0;
+        -webkit-background: rgba(0, 0, 0, 0) linear-gradient(transparent, rgba(0, 0, 0, 0.89)) repeat scroll 0 0;
+        -ms-background: rgba(0, 0, 0, 0) linear-gradient(transparent, rgba(0, 0, 0, 0.89)) repeat scroll 0 0;
+        -o-background: rgba(0, 0, 0, 0) linear-gradient(transparent, rgba(0, 0, 0, 0.89)) repeat scroll 0 0;
+        padding-top:85px;
+    }
+    .post-date{
+        opacity: 1;
+        margin-top:7px;
+    }
+
+    .recently-added-blog{
+        margin-bottom:116px;
+    }
+    .recently-added-content{
+       margin-top:200px;
+        margin-left:-15px;
+    }
+    .recently-added-description:hover{
+        background-color: transparent;
+    }
+    .recently-added-description:hover .recently-added-content>.recently-added-date>span{
+        color:#f1002d;
+    }
+    .recently-added-description:hover  .recently-added-content>a{
+        color:#000;
+    }
+    .copyright{
+        margin-top:0;
+    }
+    .full-testimonials>.col>.testimonial-card{
+        padding-top:0;
+    }
+
+    .share>ul>li{
+        margin-bottom:6px;
+    }
+
+    /*the start style of aside nav for mobile*/
+    .side-nav.right-aligned{
+        right:0;
+    }
+    .side-nav{
+        width:100%;
+        padding-top:24px;
+    }
+    .mobile-list>li>a{
+        font-size:16px;
+        margin-top:-12px;
+        color:#fff;
+    }
+
+    .nav-desktop-mobile>ul>li>a, .nav-desktop-mobile>ul>li>a:active,.nav-desktop-mobile>ul>li>a.active{
+        color: #fff !important;
+    }
+
+    /*the end style of aside nav for mobile*/
+}
+
+@media screen and (width:320px){
+    .left-list>li>a{
+        font-size:10px;
+    }
+    .testimonial-card{
+        margin-top:-28px;
+    }
+    .full-testimonials>.col>.testimonial-card>.card-image{
+        margin-top:14px;
+    }
+    .recently-added-content{
+        margin-top:160px;
+    }
+    .visibility{
+        width:260px;
+    }
+}
+@media screen and (min-width:1025px) and (max-width:1383px){
+   .follow-us{
+       margin-left:0;
+   }
+    .left-list>li>a{
+        margin-right:4px;
+        font-size:9px;
+    }
+    .cnt_banner>ul>li{
+        margin-right:4px;
+    }
+
+}
+@media screen and (min-width:1025px) and (max-width:1288px){
+    .join-card-content{
+        padding-top: 26px !important;
+    }
+}
+@media screen and (min-width:1024px){
+    .search-element{
+        margin-left:2.90rem !important;
+        margin-right:2.90rem !important;
+    }
+}
+@media screen and (min-width:1383px){
+    .vertical_banner_ul>li>input:not([type]){
+        font-size:24px;
+    }
+}
+@media screen and (width:360px){
+    .recently-added-content{
+        margin-top:176px;
+    }
+    .share{
+        padding-left:4px;
+    }
+}
+@media screen and (min-width:1384px) and (max-width:1401px){
+    .news-letter>.join-card{
+        margin-bottom:-4px !important;
+    }
+}
+
+@media screen and (min-width:1307px)  and (max-width:1328px){
+   .join-card-content{
+       padding-top:30px !important;
+   }
+}
+@media screen and (min-width:1328px) and (max-width:1348px){
+    .join-card-content{
+        padding-top: 32px!important;
+    }
+}
+@media screen and (min-width:1348px) and (max-width:1368px){
+    .join-card-content{
+        padding-top: 34px!important;
+    }
+}
+@media screen and (min-width:1368px) and (max-width:1400px){
+    .join-card-content{
+        padding-top: 36px!important;
+    }
+}
